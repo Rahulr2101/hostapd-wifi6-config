@@ -1,0 +1,1 @@
+# hostapd-wifi6-config

@@ -21,6 +21,11 @@ wpa_passphrase=123@QWEasdzxc
 rsn_pairwise=CCMP
 ieee80211w=2
 ```
+<h2> Stop Processes </h2>
+
+```
+sudo kill wpa_supplicant
+```
 <h2>Ensure Interface Availability</h2>
 Free the wlp0s20f3 interface to avoid "Device or resource busy" errors:
 
